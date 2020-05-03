@@ -1,0 +1,2 @@
+# aws-nestjs-generic
+should have shared config like esling, tsconfig, tsconfig.build, jest in package.json, gitignore, licence, package json scripts like lint and test + dev and dependencies for eslint, jest, rimraf, supertest, ts-node, tsconfig-paths, @typescript-eslint/eslint-plugin, @typescript-eslint/parser, eslint-config-prettier, eslint-plugin-import, typescript, @types/node, @types/jest, @types/supertest
